@@ -1,0 +1,5 @@
+userName,pw,expected
+user01,123456,TRUE
+helloworld,123456,FALSE
+david,re*ads,FALSE
+goodone,onegood,TRUE
